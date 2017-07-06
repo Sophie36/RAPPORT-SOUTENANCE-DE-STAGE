@@ -1,0 +1,15 @@
+REMERCIEMENTS
+
+INTRO
+	Présentation étudiant
+	Contexte (1 entreprise)
+	Missions (informatique)
+	Présentation du plan du rapport
+
+1) Développement d'un site web marchand pour N&B.
+	Présentation de l'entreprise (organigramme employés & service affecté mission)
+	Présentation de la mission (antécédents, la demande interne, matériel mis à dispo & logiciel)
+	Développement de la solution (méthode utilisée, problème rencontrés, qui valide)
+	Bilan
+	
+Conclusion
